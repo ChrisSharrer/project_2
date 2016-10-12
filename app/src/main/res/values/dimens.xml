@@ -1,0 +1,7 @@
+<resources>
+    <dimen name="screen_padding">16dp</dimen>
+    <dimen name="paragraph_spacing">8dp</dimen>
+    <dimen name="gridview_spacing">1dp</dimen>
+    <dimen name="detail_margin">0dp</dimen>
+    <dimen name="detail_icon_size">48dp</dimen>
+</resources>
